@@ -1,0 +1,40 @@
+#contenedor {
+	text-align: left;
+	width: 500px;
+	padding: 65px 250px;	
+	position: relative;
+}
+
+a{position: absolute;
+	top: 450px;
+	left: 345px;
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	text-decoration: none;
+	color: #191970;
+}
+
+a:hover {color: red
+}
+
+footer {position: absolute;
+	bottom: 20px;
+	right: 40%;
+
+}
+
+#etiqueta {
+	text-align: right;
+	top: 60px;	
+	right: -150px;
+	position: absolute;
+}
+
+p>a{position: absolute;
+	top: 450px;
+	left: 930px;
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	text-decoration: none;
+	color: #191970;
+}

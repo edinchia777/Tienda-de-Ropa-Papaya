@@ -1,0 +1,90 @@
+#Modelo0 {
+	text-align: left;
+	width: 500px;
+	padding: 0px 320px;	
+	position: relative;
+	bottom: 100px;
+}
+
+#Modelo1 {
+	text-align: right;
+	top: 0px;	
+	right: -10px;
+	position: absolute;
+}
+
+#Modelo2 {
+	text-align: right;
+	top: 0px;	
+	right: 260px;
+	position: absolute;
+}
+
+#Compra1 {
+	text-align: left;
+	width: 250px;
+	padding: 0px 450px;
+	bottom: 1px;	
+	position: relative;
+	font-family: Comic Sans MS;
+	font-size: 15px;
+	color: #191970;
+}
+
+#Compra2 {
+	text-align: left;
+	width: 200px;
+	top: 307px;
+	left: 725px;	
+	position: absolute;
+	font-family: Comic Sans MS;
+	font-size: 15px;
+	color: #191970;
+}
+
+#Compra3 {
+	text-align: left;
+	width: 400px;
+	top: 307px;
+	right: -240px;	
+	position: absolute;
+	font-family: Comic Sans MS;
+	font-size: 15px;
+	color: #191970;
+}
+
+#derechos {position: absolute;
+	bottom: -50px;
+	right: 27%;
+	font-family: Arial;
+	font-size: 12px;
+	color: #191970;
+}
+
+header {
+	position: absolute;
+	top: -160px;
+	right: -190px;
+	text-align: right;
+	font-family: Comic Sans MS;
+	font-size: 15px;
+	color: #191970;
+}
+
+#Logo {
+	position: relative;
+	padding: 10px 20px;
+}
+
+#Logo2 {
+	position: relative;
+	width: 100px;
+	top: -150px;
+	right: -600px;
+}
+
+a:hover {color: red;
+}
+
+a {text-decoration: none;
+}

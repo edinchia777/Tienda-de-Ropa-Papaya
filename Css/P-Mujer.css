@@ -1,0 +1,51 @@
+
+#Portada {
+	text-align: left;
+	width: 500px;
+	padding: 0px 0px;	
+	position: relative;
+}
+
+#Modelo1 {
+	text-align: right;
+	top: 50px;	
+	right: -550px;
+	position: absolute;
+}
+
+#Modelo2 {
+	text-align: right;
+	top: -50px;	
+	right: 300px;
+	position: absolute;
+}
+
+#Productos {
+	text-align: left;
+	padding: 50px 850px;	
+	position: relative;
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	color: #191970;
+}
+
+a:hover {color: red;
+}
+
+a {text-decoration: none;
+}
+
+#derechos {position: absolute;
+	bottom: -70px;
+	right: 12%;
+}
+
+#Home {text-align: right;
+	width: 400px;
+	top: -50px;	
+	right: -280px;
+	position: absolute;	
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	color: #191970;
+}
